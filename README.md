@@ -79,12 +79,19 @@ This repository contains the completed internship tasks for the *Build Real-time
 ## Repository Structure
 
 PlayStore_Analytics_Internship/
+
 ├── play_store_task1.py
+
 ├── play_store_task2.py
+
 ├── play_store_task3.py
+
 ├── play_store_task4.py
+
 ├── play_store_task5.py
+
 ├── requirements.txt
+
 ├── README.md
 ├── data/
 │   ├── google_play_store_data.csv
