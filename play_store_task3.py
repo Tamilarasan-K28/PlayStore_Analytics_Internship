@@ -85,7 +85,7 @@ ist = pytz.timezone('Asia/Kolkata')
 current_time = datetime.now(ist)
 current_hour = current_time.hour
 
-if 13 <= current_hour < 24:  # 1 PM - 2 PM IST
+if 13 <= current_hour < 14:  # 1 PM - 2 PM IST
     fig = go.Figure()
 
     # Add Avg Installs (Bars)
@@ -122,6 +122,7 @@ if 13 <= current_hour < 24:  # 1 PM - 2 PM IST
     fig.show()
 else:
     print("Graph is visible only between 1 PM and 2 PM IST.")
+
 
 
 
