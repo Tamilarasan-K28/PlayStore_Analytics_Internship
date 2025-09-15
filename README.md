@@ -83,7 +83,9 @@ PlayStore_Analytics_Internship/
 ├── README.md
 
 ├── data/
+
 │   ├── google_play_store_data.csv
+
 │   └── user_reviews.csv
 
 ├── play_store_task1.py
