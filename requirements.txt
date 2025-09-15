@@ -1,0 +1,6 @@
+pandas==2.1.1
+numpy==1.26.2
+matplotlib==3.8.1
+seaborn==0.12.3
+plotly==6.3.0
+pytz==2025.7
